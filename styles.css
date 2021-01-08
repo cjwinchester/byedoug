@@ -1,5 +1,5 @@
 body {
-  background-image: url(new_doug_parrot.gif);
+  background-image: url(doug_album.jpg);
   background-repeat: repeat;
 }
 
@@ -18,5 +18,5 @@ div.vid {
 }
 
 video {
-  background-image: url(doug-loading.jpg);
+  background-image: url(doug_loading.jpg);
 }
